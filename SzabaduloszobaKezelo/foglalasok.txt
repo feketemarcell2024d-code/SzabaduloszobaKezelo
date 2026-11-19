@@ -1,0 +1,7 @@
+Kódvadászok;HORROR;5;52;1
+Időutazók;KLASSZIKUS;3;48;0
+Rejtélyfejtők;HORROR;6;59;3
+Logika Mesterei;KLASSZIKUS;4;41;0
+Sötét Lovagok;HORROR;4;60;2
+Kulcsrakészek;KLASSZIKUS;2;55;1
+Agymenők;HORROR;6;45;0
