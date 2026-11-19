@@ -42,7 +42,7 @@ namespace SzabaduloszobaKezelo
             }
 
             int dijszamito = (Jatekosszama * 3000) + (Hasznaltsegitseg * 1000);
-            int vegosszeg = egeszar + dijszamito + Hasznaltsegitseg)
+            int vegosszeg = egeszar + dijszamito + Hasznaltsegitseg;
 
             int pluszdij = 0;
 
@@ -55,7 +55,7 @@ namespace SzabaduloszobaKezelo
                 pluszdij = 3000;
             }
 
-
+            return vegosszeg;
 
         }
     }
