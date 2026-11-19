@@ -44,15 +44,9 @@ namespace SzabaduloszobaKezelo
             int dijszamito = (Jatekosszama * 3000) + (Hasznaltsegitseg * 1000);
             int vegosszeg = egeszar + dijszamito + Hasznaltsegitseg)
 
-            int tobbletszam = 0
-                if (Jatekosszama)
-            {
-
-            }
-
             int pluszdij = 0;
 
-            if (Jatekosszama == 3 )
+            if (Jatekosszama >= 3 )
             {
                 pluszdij = 0;
             }
